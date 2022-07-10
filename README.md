@@ -1,0 +1,1 @@
+reference : https://javatodev.com/spring-boot-mysql/
